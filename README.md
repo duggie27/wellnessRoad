@@ -101,62 +101,63 @@
 
 ### 내가 직접 디자인 한 웹페이지 구성!
 
-### 웹 디자인 01 메인 페이지
+#### 웹 디자인 01 메인 페이지
 ![image](https://github.com/duggie27/wellnessRoad/assets/157657483/b4feada2-9e64-4342-a098-eae484097112)
 
 <br>
 
-### 웹 디자인 02 게시판
+#### 웹 디자인 02 게시판
 ![image](https://github.com/duggie27/wellnessRoad/assets/157657483/ffaedf43-9cfa-45cf-a8fe-4fcd62736b68)
 
 <br>
 
-### 웹 디자인 03 여행 기능구현
+#### 웹 디자인 03 여행 기능구현
 
 ![image](https://github.com/duggie27/wellnessRoad/assets/157657483/610794e8-86a4-4b29-bd82-02d196c35a2a)
 
 <br>
 
+### 실제 구현 화면!
 
-### 회원가입
+#### 회원가입
 ![JOIN](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/984130f2-6d9c-4207-b69e-dc88521784a5)
 
 <br>
 
-### 로그인 
+#### 로그인 
 ![LOGIN](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/af83372a-f2c0-4a73-907f-571f0c38100a)
 
 <br>
 
-### 새로운 일정 만들기 01
+#### 새로운 일정 만들기 01
 ![0001](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/df9c003f-c966-495f-ae8f-46ecd4555cf2)
 <br>
 
-### 새로운 일정 만들기 02
+#### 새로운 일정 만들기 02
 ![0002](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/4c0855c6-16a6-4495-aeec-f026729379d5)
 
 <br>
 
-### 새로운 일정 만들기 03
+#### 새로운 일정 만들기 03
 ![0003](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/f8ae1a04-d32f-4949-a2d8-d5ac0a01351f)
 
 <br>
 
-### 새로운 일정 만들기 04
+#### 새로운 일정 만들기 04
 ![0004](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/c7c5ab8b-f2ca-4dd5-9b48-adfa3d35dbf9)
 
 <br>
 
 
-### 준비물
+#### 준비물
 ![0005](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/e2279d83-554f-4986-a9e3-e89ae9214623)
 
 <br>
 
-### 게시판
+#### 게시판
 ![0006](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/8cfa037a-95e9-44fe-b5f9-296d61da0725)
 
-### 트러블슈팅
+#### 트러블슈팅
 ![13554413541](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/3f37fa07-2a9f-4f81-a60d-51a5c176c598)
 
 <br>
