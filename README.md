@@ -99,6 +99,25 @@
 
 ## 🖥 화면 구성
 
+### 내가 직접 디자인 한 웹페이지 구성!
+
+### 웹 디자인 01 메인 페이지
+![image](https://github.com/duggie27/wellnessRoad/assets/157657483/b4feada2-9e64-4342-a098-eae484097112)
+
+<br>
+
+### 웹 디자인 02 게시판
+![image](https://github.com/duggie27/wellnessRoad/assets/157657483/ffaedf43-9cfa-45cf-a8fe-4fcd62736b68)
+
+<br>
+
+### 웹 디자인 03 여행 기능구현
+
+![image](https://github.com/duggie27/wellnessRoad/assets/157657483/610794e8-86a4-4b29-bd82-02d196c35a2a)
+
+<br>
+
+
 ### 회원가입
 ![JOIN](https://github.com/2023-SMHRD-KDT-AI-16/wellnessRoad/assets/157657483/984130f2-6d9c-4207-b69e-dc88521784a5)
 
